@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jongmin%20Choi%20👋&fontSize=90&animation=fadeIn)
 
-- 🎓 I'm studying Computer Science and Engineering at Incheon National University.
-- 🌱 I’m currently learning Java, Spring Boot.
-- 🎯 My future goal is to be a backend developer.
+- 🎓 I'm currently studying Computer Science and Engineering at Incheon National University.
+- 🌱 At present, I’m learning Java and Spring Boot.
+- 🎯 My ultimate goal is to become a backend developer.
 - 🎸 In my spare time, I enjoy playing the guitar.
-- 📫 Feel free to contact me at jongmine.ch@gmail.com!
+- 📫 Please feel free to reach me at jongmine.ch@gmail.com!
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmine&show_icons=true&theme=ambient_gradient)
