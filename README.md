@@ -21,6 +21,8 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
+
+<!--
 ---
 
 <a href="https://github.com/jongmine">
@@ -30,3 +32,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongmine&theme=ambient_gradient&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
 </a>
 <br clear="left"/>
+-->
