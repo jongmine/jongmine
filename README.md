@@ -20,3 +20,13 @@
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
+
+---
+
+<a href="https://github.com/jongmine">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jongmine&include_all_commits=true&show_icons=true&theme=ambient_gradient&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/jongmine">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongmine&theme=ambient_gradient&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+</a>
+<br clear="left"/>
