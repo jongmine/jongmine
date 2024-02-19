@@ -19,9 +19,10 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <a href="https://jongmine.github.io/">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-jongmine.github.io-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
 </div>
-
-
 <!--
 ---
 
