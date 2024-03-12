@@ -1,14 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jongmin%20Choi%20👋&fontSize=90&animation=fadeIn)
 
 - 🎓 I'm currently studying Computer Science and Engineering at Incheon National University.
-- 🌱 At present, I’m learning Java and Spring Boot.
+- 🌱 At present, I’m learning Java and Spring.
 - 🎯 My ultimate goal is to become a backend developer.
 - 🎸 In my spare time, I enjoy playing the guitar.
 - 📫 Please feel free to reach me at jongmine.ch@gmail.com!
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmine&show_icons=true&theme=ambient_gradient)
--->
 
 ## 🧑🏻‍💻 My skills
 
@@ -23,14 +19,10 @@
     <img alt="Blog" src="https://img.shields.io/badge/Blog-jongmine.github.io-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
   </a>
 </div>
-<!--
+
 ---
 
-<a href="https://github.com/jongmine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jongmine&include_all_commits=true&show_icons=true&theme=ambient_gradient&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/jongmine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongmine&theme=ambient_gradient&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
-</a>
-<br clear="left"/>
+![Jongmnine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmine&show_icons=true&theme=tokyonight)
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongmine)](https://solved.ac/jongmine/)
 -->
