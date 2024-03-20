@@ -2,6 +2,7 @@
 
 - 🎓 I'm currently studying Computer Science and Engineering at Incheon National University.
 - 🌱 At present, I’m learning Java and Spring.
+- 📝 I'm also delving into fundamental CS concepts including Operating Systems, Data Communications, and Databases.
 - 🎯 My ultimate goal is to become a backend developer.
 - 🎸 In my spare time, I enjoy playing the guitar.
 - 📫 Please feel free to reach me at jongmine.ch@gmail.com!
@@ -15,8 +16,8 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <a href="https://jongmine.github.io/">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-jongmine.github.io-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  <a href="https://velog.io/@jongmine_c/">
+    <img alt="Blog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
 </div>
 
